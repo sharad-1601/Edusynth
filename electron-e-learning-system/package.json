@@ -1,0 +1,25 @@
+{
+  "name": "electron-e-learning-system",
+  "version": "1.0.0",
+  "description": "\"An E-Learning System built using Electron.js (for Desktop Apps), React.js (for website users), Node.js for backend, and MongoDB as database.\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hussein-Turfah/E-Learning-System.git"
+  },
+  "keywords": [
+    "E-Learning",
+    "System"
+  ],
+  "author": "Hussein Turfah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hussein-Turfah/E-Learning-System/issues"
+  },
+  "homepage": "https://github.com/Hussein-Turfah/E-Learning-System#readme"
+  
+}
